@@ -1,6 +1,5 @@
 Game Overview:
 "3D Tank Battle Arena" is a dynamic 3D tank combat game where the player controls a tank and battles against AI-controlled enemy tanks in a jungle-themed arena. The player must navigate the battlefield, avoid obstacles, and defeat enemy tanks while surviving through various waves. The game also features power-ups, a fighter plane, and multiple camera views.
-
 Game Features:
 Player Tank: Controlled by arrow keys, with separate turret control. The tank can move in all directions and fire bullets at enemies.
 
